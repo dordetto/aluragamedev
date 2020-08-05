@@ -20,6 +20,6 @@ Ganhe Vida coletando Morcegos.
 
 Pulo: Enter ou Up (aceita pulo duplo)
 
-![Tela do Jogo](https://github.com/dordetto/aluragamedev/blob/master/Apoio/splashscreen.png)
+![Tela do Jogo](https://github.com/dordetto/aluragamedev/blob/master/Apoio/game.png)
 
 Assets fornecidos pela Alura ou retidados de sites públicos da Web
